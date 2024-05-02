@@ -1,0 +1,30 @@
+h2,p{
+	text-align: center;
+	width: 100%;
+	float: right;
+}
+h2{
+	color: #4b281e;
+	}
+.view:hover{
+	background-color: #ed9080;
+}
+.input {
+	height: 20%;
+	padding: 10px 0px;
+	width:100%
+}
+fieldset{
+	margin: 0px 500px;
+	padding: 30px;
+	background-color: #ffa3b8;
+	border-color: black;
+	text-align: center;
+}
+body{
+	background-color: #c4a99b;
+}
+.button:hover{
+	border: 1px solid #000000;
+	background-color: #585858;
+}

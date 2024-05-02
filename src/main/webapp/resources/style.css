@@ -1,0 +1,31 @@
+h2,
+p {
+	text-align: center;
+}
+h2{
+	color: #4b281e;
+	}
+table {
+	border-collapse: collapse;
+	width: 50%;
+	margin: 20px auto;
+}
+
+th,
+td {
+	border: 2px solid #000000;
+	text-align: left;
+	padding: 8px;
+	background-color: #ffa3b8;
+}
+
+th {
+	background-color: #ed9080;
+}
+body{
+	background-color: #c4a99b;
+}
+.button:hover{
+	border: 1px solid #000000;
+	background-color: #585858;
+}
